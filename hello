@@ -1,0 +1,18 @@
+bool i = true;
+
+void setup()
+{
+  Serial.Begin(9600);
+
+}
+
+void loop()
+{
+  if(i = true){
+  
+  Serial.Write("Hello Word");
+  i = false
+  
+  }
+
+}
